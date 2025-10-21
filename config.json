@@ -1,0 +1,14 @@
+{
+  "OPENAI_API_KEY": "sk-********",
+  "CSV_FILE": "data/course_data.csv",
+  "EMBEDDING_MODEL": "text-embedding-3-small",
+  "LLM_MODEL": "gpt-4o-mini",
+  "POSTGRES": {
+        "HOST": "localhost",
+        "PORT": 5432,
+        "DBNAME": "postgres",
+        "USER": "postgres",
+        "PASSWORD": "********"
+  }
+}
+
